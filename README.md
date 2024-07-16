@@ -9,7 +9,7 @@ install express
 npm init -y
 npm i express
 nodemon app.js
-if nodemon is not available then(npm install nodemon -g)
+if nodemon is not available then (npm install nodemon -g)
 1. How to upload Jpg from static 
 2. how to load HTML CSS file in express
 3. Routing----> navigation---link
